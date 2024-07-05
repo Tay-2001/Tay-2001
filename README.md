@@ -7,8 +7,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tay Rosario
 ===================================================================================================================================
 
-Learning Cloud ☁️ Cloud Computing Enthusiast | 🌐 AWS | 🛠️ Terraform | ☁️ Azure
---------------------------------------------------------------------------------
+Learning Cloud ☁️ Cloud Computing Enthusiast | 🌐 AWS | 🛠️ Terraform | ☁️ Azure | SQL | Python
+------------------------------------------------------------------------------------------------
 
 I'm originally from New Jersey. As a passionate self-learner, I've embarked on a journey to master cloud technologies through platforms like Whizlabs and insightful YouTube tutorials. My dedication to mastering cloud certifications not only showcases my self-motivation but also underscores my commitment to staying ahead in this rapidly evolving field. I'm excited to bring my expertise in cloud solutions to the table, offering a unique blend of hands-on experience and self-driven learning. If you're looking for a dedicated and adaptable cloud professional who thrives on continuous improvement, let's connect and discuss how I can contribute to your organization's success.
 
